@@ -4,16 +4,16 @@ import Navbar from './Navbar'
 const ViewAll = () => {
     const [data, changeData] = useState(
         [
-            { "no": 1, "name": "Anu", "username": "itsmeanu", "email": "anu@234", "phone": "8954872378", "website": "wayne.org" },
-            { "no": 2, "name": "Rinu", "username": "rinuzzzzz", "email": "rinu@76", "phone": "7865349078", "website": "atlanta.net" },
-            { "no": 3, "name": "Christa", "username": "christy6766", "email": "cris@546", "phone": "9053426889", "website": "rez.lmt" },
-            { "no": 4, "name": "Prasad", "username": "whychoo", "email": "prasad@34", "phone": "0954786534", "website": "lex.corp" },
-            { "no": 5, "name": "Kent", "username": "imkent@", "email": "kent@4325", "phone": "908545469", "website": "demarco.info" },
-            { "no": 6, "name": "Daniel", "username": "daniel@", "email": "danielnot@54", "phone": "89673456876", "website": "nestle.corp" },
-            { "no": 7, "name": "Peter", "username": "spideyyyy", "email": "pete@464", "phone": "21079132", "website": "oscorp.info" },
-            { "no": 8, "name": "Mr. V", "username": "callmev", "email": "vic@67", "phone": "586674340", "website": "jagua.com" },
-            { "no": 9, "name": "Sonia", "username": "sonnnz", "email": "sonz@57", "phone": "863899996", "website": "stallion.com" },
-            { "no": 10, "name": "Asar", "username": "asar_asar", "email": "asr@56", "phone": "0804554784", "website": "reliance.net" }
+            { "no": 1, "name": "Leanne Graham", "username": "Bret", "email": "Sincere@april.biz", "phone": "1-770-736-8031 x56442", "website": "hildegard.org" },
+            { "no": 2, "name": "Ervin Howell", "username": "Antonette", "email": "Shanna@melissa.tv", "phone": "010-692-6593 x09125", "website": "anastasia.net" },
+            { "no": 3, "name": "Clementine Bauch", "username": "Samantha", "email": "Nathan@yesenia.net", "phone": "1-463-123-4447", "website": "ramiro.info" },
+            { "no": 4, "name": "Patricia Lebsack", "username": "Karianne", "email": "Julianne.OConner@kory.org", "phone": "493-170-9623 x156", "website": "kale.biz" },
+            { "no": 5, "name": "Chelsey Dietrich", "username": "Kamren", "email": "Lucio_Hettinger@annie.ca", "phone": "(254)954-1289", "website": "demarco.info" },
+            { "no": 6, "name": "Mrs. Dennis Schulist", "username": "Leopoldo_Corkery", "email": "Karley_Dach@jasper.info", "phone": "1-477-935-8478 x6430", "website": "ola.org" },
+            { "no": 7, "name": "Kurtis Weissnat", "username": "Elwyn.Skiles", "email": "Telly.Hoeger@billy.biz", "phone": "210.067.6132", "website": "elvis.io" },
+            { "no": 8, "name": "Nicholas Runolfsdottir V", "username": "Maxime_Nienow", "email": "Sherwood@rosamond.me", "phone": "586.493.6943 x140", "website": "jacynthe.com" },
+            { "no": 9, "name": "Glenna Reichert", "username": "Delphine", "email": "Chaim_McDermott@dana.io", "phone": "(775)976-6794 x41206", "website": "conrad.com" },
+            { "no": 10, "name": "Clementina DuBuque", "username": "Moriah.Stanton", "email": "Rey.Padberg@karina.biz", "phone": "024-648-3804", "website": "ambrose.net" }
         ]
     )
     return (
